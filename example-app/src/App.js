@@ -33,12 +33,14 @@ function App() {
           </li>
         </ul>
         <hr/>
-        The example component you see here was obtained from <a 
+        <p>The example component you see here was obtained from <a 
           className="App-link"
           href="https://create-react-app.dev/docs/adding-images-fonts-and-files"
           target="_blank"
           rel="noopener noreferrer"
           ><em>Adding Images, Fonts, and Files</em></a>
+        </p>
+        <p>This repo was deployed with <a href="https://github.com/tschaub/gh-pages" target="_blank">gh-pages</a></p>
       </header>
     </div>
   );

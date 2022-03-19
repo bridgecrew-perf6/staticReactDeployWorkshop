@@ -1,11 +1,12 @@
 import logo from './logo.svg';
+import Image from './components/GiphyImage'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <Image/>
         <p>
           There are several places you can learn React from:
         </p>
